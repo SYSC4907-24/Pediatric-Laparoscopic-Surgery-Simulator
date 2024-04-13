@@ -20,7 +20,7 @@ This project is a simulation software designed for pediatric laparoscopic surger
 
 ## Reqierments
 
-To run the project, execute the `main.py` file. Different tasks and functionalities can be accessed through the GUI.
+To run the project, execute the `demo.py` file. Different tasks and functionalities can be accessed through the GUI.
 
 ## Notes
 
