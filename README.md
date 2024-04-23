@@ -2,8 +2,7 @@
 *Source Repository for Systems and Computer Engineering Capstone Poject 2023 - 2024 at Carleton University.*
 
 ## Features
-This project is a simulation designed for pediatric laparoscopic surgery training. The software simulates various surgical tasks, such as ring and suturing tasks. It captures video input, processes the data, and provides real-time feedback based on sensor data. 
-
+This project is a simulation designed for pediatric laparoscopic surgery training. The software simulates various surgical tasks, such as ring and suturing tasks. It captures video input, processes the data, and provides real-time feedback based on sensor data.
 - a
 - b
 - c
@@ -13,7 +12,7 @@ This project is a simulation designed for pediatric laparoscopic surgery trainin
 ### Requirements
 * [Python 3](https://www.python.org/) (Tested on 3.7, 3.8)
 * [Arduino](https://www.arduino.cc/en/software)
-    *Set the loader to oldboot.
+  * Set the loader to oldboot.
 
 ### Run Locally
 Clone the project:
