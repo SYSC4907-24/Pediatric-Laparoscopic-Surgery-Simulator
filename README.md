@@ -1,26 +1,37 @@
-# Pediatric Laparoscopic Surgery Simulator
+# Pediatric Laparoscopic Surgery Simulator 
+*Source Repository for Systems and Computer Engineering Capstone Poject 2023 - 2024 at Carleton University.*
 
-This repository for SYSC4907 Capstone Engineering Project "Pediatric Laparoscopic Surgery Simulator" at Carleton University (Fall 2023/Winter 2024)
+## Features
+This project is a simulation designed for pediatric laparoscopic surgery training. The software simulates various surgical tasks, such as ring and suturing tasks. It captures video input, processes the data, and provides real-time feedback based on sensor data. 
 
-## Project Details
+- a
+- b
+- c
+- d
 
-- **Authors:** 
-1. Atallah Madi
-2. Esraa Alaa Aldeen
-3. Huda Sheikh
-4. Youssef Megahed
-- **Date Created:** September 14, 2023
-- **Last Edited:** April 13, 2024 
+## Installation
+### Requirements
+* [Python 3](https://www.python.org/) (Tested on 3.7, 3.8)
+* [Arduino](https://www.arduino.cc/en/software)
+    *Set the loader to oldboot.
 
-## Description
-
-This project is a simulation software designed for pediatric laparoscopic surgery training. The code simulates various surgical tasks, such as ring and suturing tasks. It captures video input, processes the data, and provides real-time feedback based on sensor data. 
+### Run Locally
+Clone the project:
+```bash 
+  git clone https://github.com/SYSC4907-24/Pediatric-Laparoscopic-Surgery-Simulator.git
+```
+Install Python packages:
+```bash
+python -m pip install -r requirements.txt
+```
 
 ## How to Use
-
-## Reqierments
-
 To run the project, execute the `demo.py` file. Different tasks and functionalities can be accessed through the GUI.
 
-## Notes
+## Authors  
+- Atallah Madi  
+- Esraa Alaa Aldeen  
+- Huda Sheikh 
+- Youssef Megahed
 
+If you have any feedback, please reach out to us.
