@@ -3,10 +3,6 @@
 
 ## Features
 This project is a simulation designed for pediatric laparoscopic surgery training. The software simulates various surgical tasks, such as ring and suturing tasks. It captures video input, processes the data, and provides real-time feedback based on sensor data.
-- a
-- b
-- c
-- d
 
 ## Installation
 ### Requirements
@@ -24,8 +20,10 @@ Install Python packages:
 python -m pip install -r requirements.txt
 ```
 
-## How to Use
-To run the project, execute the `demo.py` file. Different tasks and functionalities can be accessed through the GUI.
+Execute the `demo.py` file:
+```bash
+python demo.py
+```
 
 ## Authors  
 - Atallah Madi  
@@ -34,3 +32,5 @@ To run the project, execute the `demo.py` file. Different tasks and functionalit
 - Youssef Megahed
 
 If you have any feedback, please reach out to us.
+
+Edit date: April 25, 2024.
