@@ -20,9 +20,9 @@ Install Python packages:
 python -m pip install -r requirements.txt
 ```
 
-Execute the `demo.py` file:
+Execute the `main.py` file:
 ```bash
-python demo.py
+python main.py
 ```
 
 ## Authors  
