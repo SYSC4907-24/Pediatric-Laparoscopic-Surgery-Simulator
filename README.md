@@ -1,4 +1,4 @@
-# Pediatric Laparoscopic Surgery Simulator 
+# Development of a Pediatric Laparoscopic Training and Skills Assessment Simulator 
 *Source Repository for Systems and Computer Engineering Capstone Poject 2023 - 2024 at Carleton University.*
 
 ## Features
